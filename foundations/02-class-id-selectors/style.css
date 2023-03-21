@@ -1,0 +1,19 @@
+.odd{
+    background-color: #eb343480;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+.pair{
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+#two{
+    color: #003cff;
+    font-size: 36px;
+}
+#four{
+    background-color: #00ff6280;
+    font-size: 24px;
+    font-weight: bold
+}
+.big{
+    font-size: 24px;
+}
